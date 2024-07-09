@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@babel/runtime':
+        specifier: ^7.24.7
+        version: 7.24.7
       core-js:
         specifier: '3'
         version: 3.37.1
