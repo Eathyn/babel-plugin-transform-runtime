@@ -1,5 +1,3 @@
-import Student from './student.js'
-
 class Person {
   constructor(name) {
     this.name = name
@@ -11,6 +9,3 @@ class Person {
 
 const person = new Person('Tom')
 person.greet()
-
-const student = new Student('Jay', 25)
-student.greet()
