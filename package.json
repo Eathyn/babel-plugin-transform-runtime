@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "browserslist": [
-    "firefox 44"
+    "firefox 57"
   ],
   "devDependencies": {
     "@babel/core": "^7.24.7",
@@ -24,7 +24,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@babel/runtime": "^7.24.7",
+    "@babel/runtime-corejs3": "^7.24.7",
     "core-js": "3"
   }
 }
